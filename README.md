@@ -6,6 +6,6 @@
 ![Mateus Fenoci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusFenoci&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFenoci&hide=javascript,html)
 <div>
-  <img height="180em"></img>
-  <img height="180em"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusFenoci&hide=contribs,prs"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFenoci&hide=javascript,html"></img>
 </div>
