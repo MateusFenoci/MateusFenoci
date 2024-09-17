@@ -3,8 +3,8 @@
 - 📊​ Hoje trabalho com Data Science;
 - ​📚​ Estou estudando algoritimos, estrutura de dados e bibliotecas como: Scikit-Learn, Keras, Tensorflow e etc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFenoci&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusFenoci&hide=contribs,prs)
+![Mateus Fenoci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusFenoci&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFenoci&layout=compact&hide=html,css,javascript,)
 
 <div>
   <img height="180em"></img>
