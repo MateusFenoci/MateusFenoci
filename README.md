@@ -16,8 +16,6 @@
   <img align="center" alt="Mf-ScikitLearn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Mf-TensorFlow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
   <img align="center" alt="Mf-Keras" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
-
-
 </div>
 
 ## 
