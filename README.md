@@ -28,10 +28,11 @@
 
 ## 📈 GitHub Stats
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusFenoci&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFenoci&layout=compact&langs_count=7&theme=radical&hide=javascript,html"/>
+  <img height="180em" width="425em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFenoci&layout=compact&langs_count=7&theme=radical&hide=javascript,html"/>
 </div>
+
 
 ---
 
