@@ -42,6 +42,7 @@ Atualmente focado em aprender mais sobre:
 - Redes Neurais
 - Algoritmos Avançados de Machine Learning
 - Engenharia de Dados
+- Langchain e LLM's
 
 ---
 
