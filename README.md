@@ -18,11 +18,16 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="DjangoRest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/djangorest/djangorest-line-wordmark.svg">
-  <img align="center" alt="Flask" height="40" width="50" src="https://github.com/devicons/devicon/refs/heads/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="FastAPI" height="40" width="50" src="https://github.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="DjangoRest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/djangorest/djangorest-line.svg">
+  <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="FastAPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Kubernets" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-line-wordmark.svg">
+  <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/googlecloud/googlecloud-original-wordmark.svg">
+
+
 </div>
 
 ---
