@@ -17,8 +17,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="40" width="50">
-  <img align="center" alt="DjangoRest" height="40" width="50">
+  <img align="center" alt="Django" height="40" width="50" src="django.svg">
+  <img align="center" alt="DjangoRest" height="40" width="50" src="djangorest.svg">
   <img align="center" alt="Flask" height="40" width="50" src="flask.svg">
   <img align="center" alt="FastAPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
