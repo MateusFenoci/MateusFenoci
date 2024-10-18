@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 📊 **Data Scientist** com foco em machine learning e inteligência artificial.
-- 📚 Atualmente estou estudando **algoritmos**, **estruturas de dados** e bibliotecas como: `Scikit-Learn`, `Keras`, `TensorFlow`, entre outras.
+- 📊 **Software Engineer** com foco em Back-end e GenAI.
+- 📚 Atualmente estou estudando **algoritmos**, **estruturas de dados** e bibliotecas como: `Spring Boot`, `Django`, `FastAPI`, entre outras.
 - 🎯 Gosto de resolver problemas complexos com dados e aprender constantemente novas tecnologias.
 
 <div>
@@ -16,32 +16,23 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mf-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mf-Pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Mf-Numpy" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Mf-ScikitLearn" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="Mf-TensorFlow" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Mf-Keras" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="DjangoRest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/djangorest/djangorest-line-wordmark.svg">
+  <img align="center" alt="Flask" height="40" width="50" src="https://github.com/devicons/devicon/refs/heads/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="FastAPI" height="40" width="50" src="https://github.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg">
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusFenoci&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs"/>
-  <img height="180em" width="425em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFenoci&layout=compact&langs_count=7&theme=radical&hide=javascript,html"/>
-</div>
-
 
 ---
 
 ## 🌱 Em aprendizado contínuo
 
 Atualmente focado em aprender mais sobre:
-- Redes Neurais
-- Algoritmos Avançados de Machine Learning
-- Engenharia de Dados
+- Algoritimos e Estruturas de Dados
+- Java & Spring
+- Bancos de Dados Relacionais
 - Langchain e LLM's
 
 ---
