@@ -21,11 +21,10 @@
 
   <img align="center" alt="Keras" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
   <img align="center" alt="TensorFlow" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
-
   <img align="center" alt="Scikit-learn" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 
 
-  <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg">
   <img align="center" alt="FastAPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg">
 
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -33,7 +32,7 @@
 
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 
-  <img align="center" alt="Debian" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Debian-OpenLogo.svg">
+  <img align="center" alt="Debian" height="40" width="50" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg">
 
 </div>
