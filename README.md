@@ -1,7 +1,3 @@
-Aqui está uma versão reformulada da descrição, com base nas informações fornecidas:
-
----
-
 # Olá! Eu sou Mateus Fenoci 👋
 
 ## Sobre mim
