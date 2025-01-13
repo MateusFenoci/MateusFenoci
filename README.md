@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 📊 **Software Engineer** com foco em Back-end e GenAI.
-- 📚 Atualmente estou estudando **algoritmos**, **estruturas de dados** e bibliotecas como: Spring Boot, Django, FastAPI, entre outras.
+- 📊 **Data Scientist** com foco em Machine Learning e GenAI.
+- 📚 Atualmente estou estudando **Machine Learning**, **estruturas de dados** e bibliotecas como: Keras, Tensorflow e Langchain.
 - 🎯 Gosto de resolver problemas complexos com dados e aprender constantemente novas tecnologias.
 
 <div>
