@@ -32,7 +32,7 @@
 
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 
-  <img align="center" alt="Debian" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original-wordmark.svgv">
+  <img align="center" alt="Debian" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original-wordmark.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   
 </div>
