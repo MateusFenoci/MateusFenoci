@@ -43,8 +43,8 @@
 ## 🌱 Em aprendizado contínuo
 
 Atualmente focado em aprimorar conhecimentos nas áreas de:
+- **Aprendizado de Máquina, Ciência de Dados e IA Generativa**
 - **Algoritmos e Estruturas de Dados**  
 - **Desenvolvimento Backend com Java & Spring**  
 - **Bancos de Dados Relacionais**  
-- **Integração de LLMs com LangChain**  
 - **Infraestrutura em Nuvem e DevOps**
