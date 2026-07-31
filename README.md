@@ -11,11 +11,9 @@
 <br/>
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=2A9FD6&center=true&vCenter=true&width=640&lines=Ingest%C3%A3o+de+20%2B+fontes+em+escala+industrial;Arquitetura+medalh%C3%A3o+em+Delta+Lake;PySpark+%2B+Databricks+em+produ%C3%A7%C3%A3o;~400+tabelas+Delta+que+eu+mantenho;Dado+confi%C3%A1vel+%3E+dado+r%C3%A1pido" alt="Typing SVG"/>
 
 </div>
-
-<br/>
-
 
 <br/>
 
