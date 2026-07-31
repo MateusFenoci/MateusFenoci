@@ -11,13 +11,11 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=2A9FD6&center=true&vCenter=true&width=620&lines=Ingest%C3%A3o+de+20%2B+fontes+em+escala+industrial;Arquitetura+medalh%C3%A3o+em+Delta+Lake;PySpark+%2B+Databricks+em+produ%C3%A7%C3%A3o;Dado+confi%C3%A1vel+%3E+dado+r%C3%A1pido" alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
----
 
 <br/>
 
@@ -27,17 +25,6 @@ Engenheiro de Dados em **Suprimentos/Logística na ArcelorMittal Brasil** (via V
 pipelines de dados em produção no setor siderúrgico. Também toco a **NextData**, minha empresa de
 engenharia de dados.
 
-```python
-class MateusFenoci:
-    def __init__(self):
-        self.role        = "Engenheiro de Dados"
-        self.stack       = ["Databricks", "PySpark", "Delta Lake", "Azure DevOps", "SAP"]
-        self.arquitetura = "bronze -> silver -> gold"
-        self.principio   = "numero que nao bate e bug, nao e comportamento esperado"
-
-    def entrega(self):
-        return "dado confiavel, rastreavel e barato de manter"
-```
 
 <br/>
 
@@ -66,7 +53,6 @@ class MateusFenoci:
 
 <br/>
 
----
 
 <br/>
 
@@ -96,7 +82,6 @@ class MateusFenoci:
 
 <br/>
 
----
 
 <br/>
 
@@ -166,12 +151,7 @@ Extraído da API do Azure DevOps e atualizado automaticamente todo mês.
 
 <br/>
 
----
 
 <br/>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2c811,50:2a9fd6,100:0d6b96&height=110&section=footer" width="100%"/>
-
-</div>
