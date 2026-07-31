@@ -41,17 +41,16 @@ Também toco a **NextData**, minha empresa de engenharia e produtos de dados.
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-`Databricks` · `Delta Lake` · `PySpark` · `SQL` · `Azure DevOps` · `Python` · `Docker` · `SAP (ECC/S4)` · `AWS S3` · `Caddy`
-
----
-
-## 📦 Projetos
-
-| Projeto | Descrição |
-|---|---|
-| **quant-allocator** | Motor de decisão de aporte para carteira própria: coleta de dados de mercado, ranqueamento por fatores e backtest de alocação. Python + testes automatizados. |
-| **NextData** | Consultoria e produtos de dados — engenharia de dados, automação e IA aplicada. |
-| **Self-hosting** | Infra própria em Docker + Caddy: aplicações pessoais publicadas com TLS em domínio próprio. |
+<p>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+</p>
 
 ---
 
