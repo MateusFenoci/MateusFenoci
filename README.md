@@ -149,7 +149,9 @@ Extraído da API do Azure DevOps e atualizado automaticamente todo mês.
 
 <br/>
 
+<div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2c811,50:2a9fd6,100:0d6b96&height=120&section=footer&text=Vamos%20conversar?&fontSize=26&fontColor=ffffff&fontAlignY=72&desc=linkedin.com/in/mateus-r-fenoci&descSize=13&descAlignY=88" width="100%"/>
 
+</div>
 
