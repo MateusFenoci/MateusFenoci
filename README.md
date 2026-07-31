@@ -31,12 +31,12 @@ Também toco a **NextData**, minha empresa de engenharia de dados.
 |---|---|
 | Tabelas Delta que mantenho | **~400**, distribuídas em dezenas de schemas |
 | Camadas | bronze / silver / gold em múltiplos catálogos Unity Catalog |
-| Volume lido (últimos 6 meses) | **+100 bilhões** de linhas · alguns TB |
-| Commits (últimos 12 meses) | **+500** em mais de 20 repositórios |
-| Pull requests mergeados | **+70** no último ano |
-| Itens de backlog entregues | **+250** entre Features, User Stories e Tasks |
+| Volume processado pelos pipelines que construo | **+150 bilhões** de linhas · **+10 TB** |
+| Commits (últimos 12 meses) | **~600** em mais de 20 repositórios |
+| Pull requests mergeados | **~80** no último ano |
+| Itens de backlog entregues | **300+** entre Features, User Stories e Tasks |
 
-<sub>Números arredondados e medidos sobre a minha identidade nos ambientes — representam piso, não teto.</sub>
+<sub>Números arredondados, em ordem de grandeza.</sub>
 
 ---
 
