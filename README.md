@@ -41,6 +41,14 @@ class MateusFenoci:
 
 <br/>
 
+<div align="center">
+
+<a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank"><img src="./assets/cert-databricks.svg" width="100%" alt="Databricks Certified Data Engineer Associate - clique para validar"/></a>
+
+</div>
+
+<br/>
+
 ---
 
 <br/>
@@ -93,6 +101,11 @@ class MateusFenoci:
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br/>
+<br/>
+
+<a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank"><img src="https://img.shields.io/badge/Databricks_Certified-Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/></a>
 
 </div>
 
