@@ -43,7 +43,15 @@ class MateusFenoci:
 
 <div align="center">
 
-<a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank"><img src="./assets/cert-databricks.svg" width="100%" alt="Databricks Certified Data Engineer Associate - clique para validar"/></a>
+<a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank">
+  <img src="https://templates.images.credential.net/17613128948123067507712718351377.png" width="150" alt="Databricks Certified Data Engineer Associate"/>
+</a>
+
+<br/>
+
+**Databricks Certified Data Engineer Associate**
+
+<sub>Credencial oficial verificável — clique no badge para validar</sub>
 
 </div>
 
