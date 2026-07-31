@@ -41,19 +41,28 @@ class MateusFenoci:
 
 <br/>
 
-<div align="center">
+## Certificação
 
-<a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank">
-  <img src="https://templates.images.credential.net/17613128948123067507712718351377.png" width="150" alt="Databricks Certified Data Engineer Associate"/>
-</a>
-
-<br/>
-
-**Databricks Certified Data Engineer Associate**
-
-<sub>Credencial oficial verificável — clique no badge para validar</sub>
-
-</div>
+<table>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank">
+        <img src="https://templates.images.credential.net/17613128948123067507712718351377.png" width="120" alt="Databricks Certified Data Engineer Associate"/>
+      </a>
+    </td>
+    <td>
+      <strong>Databricks Certified Data Engineer Associate</strong>
+      <br/>
+      Emitida pela Databricks · credencial oficial verificável
+      <br/><br/>
+      Cobre ingestão e transformação com Spark SQL e PySpark, arquitetura medalhão,
+      Delta Lake, orquestração de pipelines e governança no Unity Catalog — a mesma
+      stack que eu opero em produção no dia a dia.
+      <br/><br/>
+      <a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank">Validar credencial &#8594;</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -110,11 +119,6 @@ class MateusFenoci:
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<br/>
-<br/>
-
-<a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank"><img src="https://img.shields.io/badge/Databricks_Certified-Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/></a>
-
 </div>
 
 <br/>
@@ -159,6 +163,10 @@ Números arredondados, em ordem de grandeza.
 
 Commits em repositório corporativo privado — não aparecem no gráfico público do GitHub.
 Extraído da API do Azure DevOps e atualizado automaticamente todo mês.
+
+<br/>
+
+---
 
 <br/>
 
