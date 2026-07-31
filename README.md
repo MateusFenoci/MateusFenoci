@@ -16,7 +16,7 @@
 
 ### ⚙️ O pipeline que eu construo e opero
 
-<img src="./assets/pipeline.svg" width="100%" alt="SAP ECC/BW para Bronze, Silver, Gold e Power BI"/>
+<img src="./assets/pipeline-flow.svg" width="100%" alt="SAP ECC/BW para Bronze, Silver, Gold e Power BI"/>
 
 </div>
 
@@ -58,6 +58,18 @@ class MateusFenoci:
 | ✅ **Itens de backlog entregues** | **300+** entre Features, User Stories e Tasks |
 
 <sub>Números arredondados, em ordem de grandeza.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Atividade real de engenharia (Azure DevOps)
+
+<img src="./assets/devops-graph.svg" width="100%" alt="Contribuicoes no Azure DevOps nos ultimos 12 meses"/>
+
+<sub>Commits em repositório corporativo privado — não aparecem no gráfico público do GitHub.<br/>Extraído da API do Azure DevOps e atualizado automaticamente todo mês.</sub>
 
 </div>
 

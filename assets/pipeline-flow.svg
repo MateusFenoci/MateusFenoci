@@ -133,36 +133,40 @@
     <text x="830" y="150" class="t" font-size="10.5" font-weight="700" text-anchor="middle" fill="#3d2f00">POWER BI</text>
   </g>
 
-  <!-- ===== particulas: refinam de cor a cada etapa ===== -->
+  <!-- ===== particulas: percorrem o trilho INTEIRO, refinando de cor ===== -->
   <g class="anim" filter="url(#glow)">
-    <circle r="4.6" fill="#4dd0e1">
-      <animateMotion dur="5.2s" repeatCount="indefinite" keyPoints="0;0.2" keyTimes="0;1" calcMode="linear"><mpath href="#rail"/></animateMotion>
-      <animate attributeName="fill" values="#4dd0e1;#e08a45" dur="5.2s" repeatCount="indefinite"/>
+    <circle r="4.8" fill="#4dd0e1">
+      <animateMotion dur="6.4s" begin="0s" repeatCount="indefinite" calcMode="linear"><mpath href="#rail"/></animateMotion>
+      <animate attributeName="fill"
+               values="#4dd0e1;#4dd0e1;#e08a45;#e08a45;#dfe9f2;#dfe9f2;#f5c518;#f5c518"
+               keyTimes="0;0.16;0.22;0.42;0.48;0.68;0.74;1"
+               dur="6.4s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.94;1" dur="6.4s" begin="0s" repeatCount="indefinite"/>
     </circle>
-    <circle r="4.6" fill="#e08a45">
-      <animateMotion dur="5.2s" begin="1.3s" repeatCount="indefinite" keyPoints="0.2;0.46" keyTimes="0;1" calcMode="linear"><mpath href="#rail"/></animateMotion>
-      <animate attributeName="fill" values="#e08a45;#dfe9f2" dur="5.2s" begin="1.3s" repeatCount="indefinite"/>
+    <circle r="4.8" fill="#4dd0e1">
+      <animateMotion dur="6.4s" begin="1.6s" repeatCount="indefinite" calcMode="linear"><mpath href="#rail"/></animateMotion>
+      <animate attributeName="fill"
+               values="#4dd0e1;#4dd0e1;#e08a45;#e08a45;#dfe9f2;#dfe9f2;#f5c518;#f5c518"
+               keyTimes="0;0.16;0.22;0.42;0.48;0.68;0.74;1"
+               dur="6.4s" begin="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.94;1" dur="6.4s" begin="1.6s" repeatCount="indefinite"/>
     </circle>
-    <circle r="4.6" fill="#dfe9f2">
-      <animateMotion dur="5.2s" begin="2.6s" repeatCount="indefinite" keyPoints="0.46;0.73" keyTimes="0;1" calcMode="linear"><mpath href="#rail"/></animateMotion>
-      <animate attributeName="fill" values="#dfe9f2;#f5c518" dur="5.2s" begin="2.6s" repeatCount="indefinite"/>
+    <circle r="4.8" fill="#4dd0e1">
+      <animateMotion dur="6.4s" begin="3.2s" repeatCount="indefinite" calcMode="linear"><mpath href="#rail"/></animateMotion>
+      <animate attributeName="fill"
+               values="#4dd0e1;#4dd0e1;#e08a45;#e08a45;#dfe9f2;#dfe9f2;#f5c518;#f5c518"
+               keyTimes="0;0.16;0.22;0.42;0.48;0.68;0.74;1"
+               dur="6.4s" begin="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.94;1" dur="6.4s" begin="3.2s" repeatCount="indefinite"/>
     </circle>
-    <circle r="5" fill="#f5c518">
-      <animateMotion dur="5.2s" begin="3.9s" repeatCount="indefinite" keyPoints="0.73;1" keyTimes="0;1" calcMode="linear"><mpath href="#rail"/></animateMotion>
+    <circle r="4.8" fill="#4dd0e1">
+      <animateMotion dur="6.4s" begin="4.8s" repeatCount="indefinite" calcMode="linear"><mpath href="#rail"/></animateMotion>
+      <animate attributeName="fill"
+               values="#4dd0e1;#4dd0e1;#e08a45;#e08a45;#dfe9f2;#dfe9f2;#f5c518;#f5c518"
+               keyTimes="0;0.16;0.22;0.42;0.48;0.68;0.74;1"
+               dur="6.4s" begin="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.94;1" dur="6.4s" begin="4.8s" repeatCount="indefinite"/>
     </circle>
-  </g>
-
-
-  <!-- legendas fora dos discos (legiveis) -->
-  <text x="286" y="196" class="t rot" text-anchor="middle">como chegou</text>
-  <text x="453" y="196" class="t rot" text-anchor="middle">limpo e conformado</text>
-  <text x="620" y="196" class="t rot" text-anchor="middle">pronto pro negócio</text>
-
-  <!-- chevrons reforcando a sequencia -->
-  <g fill="none" stroke="#3d5570" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M362 122 l9 8 -9 8"/>
-    <path d="M529 122 l9 8 -9 8"/>
-    <path d="M696 122 l9 8 -9 8"/>
   </g>
 
 </svg>
