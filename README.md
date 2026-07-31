@@ -1,16 +1,83 @@
-# Mateus Fenoci
+<div align="center">
 
-**Engenheiro de Dados** — Databricks · PySpark · Azure DevOps · SAP
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6b96,50:2a9fd6,100:f2c811&height=190&section=header&text=Mateus%20Fenoci&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Engenheiro%20de%20Dados%20%C2%B7%20Lakehouse%20%C2%B7%20SAP%20%C2%B7%20Databricks&descSize=17&descAlignY=54" width="100%"/>
 
-Construo e mantenho pipelines de dados em produção no setor siderúrgico: ingestão de dados SAP,
-modelagem em camadas no lakehouse e entrega analítica para áreas de negócio.
-Atualmente em **Suprimentos/Logística na ArcelorMittal Brasil**, via Vixteam.
+<a href="https://www.linkedin.com/in/mateus-r-fenoci-ba0936232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:fenocimateus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=2A9FD6&center=true&vCenter=true&width=620&lines=Ingest%C3%A3o+SAP+em+escala+industrial;Arquitetura+medalh%C3%A3o+em+Delta+Lake;PySpark+%2B+Databricks+em+produ%C3%A7%C3%A3o;Dado+confi%C3%A1vel+%3E+dado+r%C3%A1pido" alt="Typing SVG"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ O pipeline que eu construo e opero
+
+<img src="./assets/pipeline.svg" width="100%" alt="SAP ECC/BW para Bronze, Silver, Gold e Power BI"/>
+
+</div>
+
+---
+
+## 🧭 Sobre
+
+Construo e mantenho **pipelines de dados em produção no setor siderúrgico**: ingestão de dados SAP,
+modelagem em camadas no lakehouse e entrega analítica para as áreas de negócio.
+Hoje atuo em **Suprimentos/Logística na ArcelorMittal Brasil**, via Vixteam.
 
 Também toco a **NextData**, minha empresa de engenharia de dados.
 
-<div>
-  <a href="mailto:fenocimateus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mateus-r-fenoci-ba0936232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+```python
+class MateusFenoci:
+    def __init__(self):
+        self.role      = "Engenheiro de Dados"
+        self.stack     = ["Databricks", "PySpark", "Delta Lake", "Azure DevOps", "SAP"]
+        self.arquitetura = "bronze → silver → gold"
+        self.principio = "número que não bate é bug, não é comportamento esperado"
+
+    def entrega(self):
+        return "dado confiável, rastreável e barato de manter"
+```
+
+---
+
+## 📊 Ordem de grandeza do ambiente que opero
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🗄️ **Tabelas Delta que mantenho** | **~400**, em dezenas de schemas |
+| 🥇 **Camadas** | bronze / silver / gold em múltiplos catálogos Unity Catalog |
+| 🌊 **Volume processado pelos pipelines que construo** | **+150 bilhões** de linhas · **+10 TB** |
+| 💾 **Commits (12 meses)** | **~600** em mais de 20 repositórios |
+| 🔀 **Pull requests mergeados** | **~80** no último ano |
+| ✅ **Itens de backlog entregues** | **300+** entre Features, User Stories e Tasks |
+
+<sub>Números arredondados, em ordem de grandeza.</sub>
+
+</div>
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,azure,docker,linux,git,postgres,fastapi,github&perline=8" alt="stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </div>
 
 ---
@@ -18,40 +85,21 @@ Também toco a **NextData**, minha empresa de engenharia de dados.
 ## 🔧 O que eu faço
 
 - **Lakehouse & ELT** — ingestão de tabelas SAP (ECC/BW) no lake, contratos de schema versionados e frameworks parametrizados, em vez de um pipeline novo a cada tabela.
-- **Modelagem em camadas** — arquitetura medalhão (bronze → silver → gold) em Delta Lake, com rastreabilidade de linhagem entre views.
+- **Modelagem em camadas** — arquitetura medalhão em Delta Lake, com rastreabilidade de linhagem entre views.
 - **PySpark & SQL em escala** — transformação, deduplicação, reconciliação de fontes divergentes.
 - **Engenharia de software aplicada a dados** — Azure DevOps (repos, PRs, pipelines YAML), Git flow, code review.
-- **Qualidade de dado** — validar preenchimento e semântica *antes* do join; número que não bate é bug, não é "comportamento esperado".
+- **Qualidade de dado** — validar preenchimento e semântica *antes* do join.
 
 ---
 
-## 📊 Ordem de grandeza do ambiente que opero
+<div align="center">
 
-| | |
-|---|---|
-| Tabelas Delta que mantenho | **~400**, distribuídas em dezenas de schemas |
-| Camadas | bronze / silver / gold em múltiplos catálogos Unity Catalog |
-| Volume processado pelos pipelines que construo | **+150 bilhões** de linhas · **+10 TB** |
-| Commits (últimos 12 meses) | **~600** em mais de 20 repositórios |
-| Pull requests mergeados | **~80** no último ano |
-| Itens de backlog entregues | **300+** entre Features, User Stories e Tasks |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusFenoci&theme=tokyonight&hide_border=true&background=0D1117&ring=2A9FD6&fire=F2C811&currStreakLabel=2A9FD6" alt="streak" width="470"/>
 
-<sub>Números arredondados, em ordem de grandeza.</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusFenoci&theme=react-dark&bg_color=0D1117&color=2A9FD6&line=F2C811&point=FFFFFF&hide_border=true&area=true" width="100%" alt="activity graph"/>
 
----
+<br/>
 
-## 🛠️ Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2c811,50:2a9fd6,100:0d6b96&height=110&section=footer" width="100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white">
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
+</div>

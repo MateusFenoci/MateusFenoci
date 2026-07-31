@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 250" width="880" height="250" role="img" aria-label="Pipeline de dados: SAP ECC e BW para Bronze, Silver, Gold e Power BI">
+  <defs>
+    <linearGradient id="gBronze" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c97b3c"/><stop offset="100%" stop-color="#8a4f22"/>
+    </linearGradient>
+    <linearGradient id="gSilver" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c3ced9"/><stop offset="100%" stop-color="#8b98a6"/>
+    </linearGradient>
+    <linearGradient id="gGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2c811"/><stop offset="100%" stop-color="#c08f00"/>
+    </linearGradient>
+    <linearGradient id="gSap" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a9fd6"/><stop offset="100%" stop-color="#0d6b96"/>
+    </linearGradient>
+    <linearGradient id="gBi" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5d347"/><stop offset="100%" stop-color="#e0a000"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .lbl  { font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #eef4fa; }
+      .sub  { font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #d3e0ec; }
+      .subd { font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 10.5px; font-weight: 600; fill: #4a3a00; }
+      .foot { font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; fill: #8fa3b8; }
+      .cap  { font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; fill: #7d90a4; letter-spacing: .14em; }
+      .node { stroke: #34465a; stroke-width: 1.5; }
+      @media (prefers-reduced-motion: reduce) { .pkt { display: none; } }
+    </style>
+  </defs>
+
+  <rect width="880" height="250" rx="14" fill="#0d1117"/>
+  <text x="34" y="34" class="cap">INGESTÃO SAP  →  ARQUITETURA MEDALHÃO  →  CONSUMO</text>
+
+  <!-- trilhos: bifurcam de verdade para Bronze e Silver, e reconvergem no Gold -->
+  <g stroke="#243342" stroke-width="2.5" fill="none">
+    <path id="p1a" d="M170 122 H 240 Q 258 122 258 100 V 92 H 300"/>
+    <path id="p1b" d="M170 122 H 240 Q 258 122 258 144 V 152 H 300"/>
+    <path id="p2a" d="M410 92 H 452 Q 470 92 470 114 V 122 H 528"/>
+    <path id="p2b" d="M410 152 H 452 Q 470 152 470 130 V 122 H 528"/>
+    <path id="p3"  d="M638 122 H 748"/>
+  </g>
+
+  <!-- SAP -->
+  <rect x="34" y="90" width="136" height="64" rx="11" fill="url(#gSap)" class="node"/>
+  <text x="102" y="116" class="lbl" text-anchor="middle">SAP ECC / BW</text>
+  <text x="102" y="134" class="sub" text-anchor="middle">contratos de schema</text>
+
+  <!-- Bronze / Silver -->
+  <rect x="300" y="70" width="110" height="44" rx="10" fill="url(#gBronze)" class="node"/>
+  <text x="355" y="97" class="lbl" text-anchor="middle">BRONZE</text>
+  <rect x="300" y="130" width="110" height="44" rx="10" fill="url(#gSilver)" class="node"/>
+  <text x="355" y="157" class="lbl" text-anchor="middle" fill="#16212c">SILVER</text>
+
+  <!-- Gold -->
+  <rect x="528" y="90" width="110" height="64" rx="11" fill="url(#gGold)" class="node"/>
+  <text x="583" y="116" class="lbl" text-anchor="middle" fill="#241c00">GOLD</text>
+  <text x="583" y="134" class="subd" text-anchor="middle">regras de negócio</text>
+
+  <!-- BI -->
+  <rect x="748" y="90" width="98" height="64" rx="11" fill="url(#gBi)" class="node"/>
+  <text x="797" y="116" class="lbl" text-anchor="middle" fill="#241c00">POWER BI</text>
+  <text x="797" y="134" class="subd" text-anchor="middle">consumo</text>
+
+  <!-- pacotes de dado em movimento -->
+  <g class="pkt" filter="url(#glow)">
+    <circle r="4.5" fill="#4dd0e1"><animateMotion dur="2.8s" repeatCount="indefinite" begin="0s"><mpath href="#p1a"/></animateMotion></circle>
+    <circle r="4.5" fill="#4dd0e1"><animateMotion dur="2.8s" repeatCount="indefinite" begin="1.4s"><mpath href="#p1b"/></animateMotion></circle>
+    <circle r="4.5" fill="#e3ecf4"><animateMotion dur="2.8s" repeatCount="indefinite" begin=".7s"><mpath href="#p2a"/></animateMotion></circle>
+    <circle r="4.5" fill="#e3ecf4"><animateMotion dur="2.8s" repeatCount="indefinite" begin="2.1s"><mpath href="#p2b"/></animateMotion></circle>
+    <circle r="5" fill="#ffd54f"><animateMotion dur="2.8s" repeatCount="indefinite" begin="1.2s"><mpath href="#p3"/></animateMotion></circle>
+  </g>
+
+  <!-- rodape de escala -->
+  <line x1="34" y1="196" x2="846" y2="196" stroke="#1c2733" stroke-width="1"/>
+  <text x="34"  y="220" class="foot">~400 tabelas Delta</text>
+  <text x="190" y="220" class="foot">·  +150 bi de linhas</text>
+  <text x="350" y="220" class="foot">·  +10 TB</text>
+  <text x="450" y="220" class="foot">·  dezenas de schemas</text>
+</svg>
