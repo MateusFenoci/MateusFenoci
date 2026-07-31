@@ -30,21 +30,15 @@ engenharia de dados.
 
 <table>
   <tr>
-    <td width="150" align="center">
+    <td width="105" align="center">
       <a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank">
-        <img src="https://templates.images.credential.net/17613128948123067507712718351377.png" width="120" alt="Databricks Certified Data Engineer Associate"/>
+        <img src="https://templates.images.credential.net/17613128948123067507712718351377.png" width="82" alt="Databricks Certified Data Engineer Associate"/>
       </a>
     </td>
     <td>
       <strong>Databricks Certified Data Engineer Associate</strong>
       <br/>
-      Emitida pela Databricks · credencial oficial verificável
-      <br/><br/>
-      Cobre ingestão e transformação com Spark SQL e PySpark, arquitetura medalhão,
-      Delta Lake, orquestração de pipelines e governança no Unity Catalog — a mesma
-      stack que eu opero em produção no dia a dia.
-      <br/><br/>
-      <a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank">Validar credencial &#8594;</a>
+      Databricks · <a href="https://www.credential.net/1f5dbd25-95d2-4ff3-8024-f93a0312da39" target="_blank">validar credencial &#8594;</a>
     </td>
   </tr>
 </table>
